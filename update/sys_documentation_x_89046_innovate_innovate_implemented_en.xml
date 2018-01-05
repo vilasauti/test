@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="implemented" label="Implemented" language="en" table="x_89046_innovate_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>implemented</element>
+            <help/>
+            <hint/>
+            <label>Implemented</label>
+            <language>en</language>
+            <name>x_89046_innovate_innovate</name>
+            <plural>Implemented</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-05 19:47:28</sys_created_on>
+            <sys_id>406fbca0dba30300e2d5d100cf961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Implemented</sys_name>
+            <sys_package display_value="Innovate" source="x_89046_innovate">495428e0db230300e2d5d100cf9619d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">495428e0db230300e2d5d100cf9619d1</sys_scope>
+            <sys_update_name>sys_documentation_x_89046_innovate_innovate_implemented_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-05 19:47:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
